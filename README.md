@@ -1,5 +1,5 @@
 # ParaLLaMA
-Run large LLaMA models with long context lengths via a tensor parallelization port to ```parallelformers```. Using this port, I'm able to run LLaMA 13B with up to 2048 context length split across 4 16GB GPUs. 
+Run large LLaMA models with long context lengths via a tensor parallelization port to ```parallelformers```. Using 4x 16GB GPUs, I'm able to run LLaMA 13B with up to 2048 length contexts.
 
 ## Installation
 

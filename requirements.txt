@@ -1,0 +1,8 @@
+datasets==2.10.1
+pandas==1.5.3
+parallelformers==1.2.7
+sentencepiece==0.1.97
+torch==2.0.0
+tqdm==4.65.0
+transformers==4.27.3
+utils==1.0.1
